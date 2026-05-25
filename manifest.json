@@ -29,3 +29,8 @@
   "stdout" : "Done\n",
   "stderr" : ""
 }
+{
+  "returncode" : 0,
+  "stdout" : "Template written\n",
+  "stderr" : ""
+}
