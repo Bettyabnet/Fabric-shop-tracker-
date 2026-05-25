@@ -24,3 +24,8 @@
   "categories": ["business", "finance"],
   "lang": "en"
 }
+{
+  "returncode" : 0,
+  "stdout" : "Done\n",
+  "stderr" : ""
+}
